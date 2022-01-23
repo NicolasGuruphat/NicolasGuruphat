@@ -3,6 +3,7 @@
 - 📫 How to reach me: nicolas.guruphat@gmail.com
 - 🌱 I’m currently learning:  
    - Symfony
+   
 
 <!--
 **NicolasGuruphat/NicolasGuruphat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
