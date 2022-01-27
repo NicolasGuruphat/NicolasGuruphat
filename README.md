@@ -4,7 +4,8 @@
 - 📚 Portfolio: https://nicolasguruphat.github.io/Nicolas-Guruphat-Website/
 - 📃 CV: work in progress ... (https://github.com/NicolasGuruphat/CV)
 - 🌱 I’m currently learning:  
-   - Symfony
+   - 🎵 Symfony 
+   - MarkDown
    
 
 <!--
