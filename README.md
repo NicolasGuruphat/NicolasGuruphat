@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning:  
    - 🎵 Symfony 
    - MarkDown
+   - Java Script
    
 
 <!--
