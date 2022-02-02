@@ -2,7 +2,7 @@
 - 🎓 Where I study: IUT Lyon 1 - 2nd year of DUT in computer sciences  
 - 📫 How to reach me: nicolas.guruphat@gmail.com
 - 📚 Portfolio: https://nicolasguruphat.github.io/Nicolas-Guruphat-Website/
-- 📃 CV: work in progress ... (https://github.com/NicolasGuruphat/CV)
+- 📃 Markdown CV: work in progress ... (https://github.com/NicolasGuruphat/CV)
 - 🌱 I’m currently learning:  
    - 🎵 Symfony 
    - MarkDown
