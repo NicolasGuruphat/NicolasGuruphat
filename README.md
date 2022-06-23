@@ -4,14 +4,16 @@
 - 📚 Portfolio: https://nicolasguruphat.github.io/Nicolas-Guruphat-Website/
 - 📃 Markdown CV: work in progress ... (https://github.com/NicolasGuruphat/CV)
 - 🌱 I’m currently learning:  
-   - 🎵 Symfony 
    - 📑 MarkDown
    - 🟨 Java Script
-   - ➕ C++
-   - ☁️ Cloud Computing
-   
+   - 👀 Vue.JS
+   - ⚙️ Quasar 
+   - 🔴 Laravel
 
 <!--
+   - ➕ C++
+   - ☁️ Cloud Computing
+   - 🎵 Symfony 
 **NicolasGuruphat/NicolasGuruphat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
