@@ -1,3 +1,5 @@
+<a href="https://stackoverflow.com/users/19390218/nicolas"><img src="https://stackoverflow.com/users/flair/19390218.png" width="208" height="58" alt="profile for Nicolas at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Nicolas at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 ### Hi there 👋
 - 🎓 Where I study: IUT Lyon 1 - 2nd year of DUT in computer sciences  
 - 📫 How to reach me: nicolas.guruphat@gmail.com
