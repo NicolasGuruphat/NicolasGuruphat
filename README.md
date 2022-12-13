@@ -3,7 +3,7 @@
 <img src="https://www.codewars.com/users/Nicolas%20Guruphat/badges/large">
 
 ### Hi there 👋
-- 🎓 Where I study: IUT Lyon 1 - 2nd year of DUT in computer sciences  
+- 🎓 Where I study: Lyon 1 University - 3rd year of engineering degree in computer sciences  
 - 📫 How to reach me: nicolas.guruphat@gmail.com
 - 📚 Portfolio: https://nicolasguruphat.github.io/Nicolas-Guruphat-Website/
 - 📃 Markdown CV: work in progress ... (https://github.com/NicolasGuruphat/CV)
