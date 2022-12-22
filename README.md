@@ -3,7 +3,7 @@
    
  🎓 Studying at **Polytech** (**Lyon 1 University**) in 3rd year of **engineering degree** in **computer sciences**  
  
- 👔 Doing my **apprenticeship** at [**Adéquation**](https://adequation.fr/) 
+ 👔 Doing my **apprenticeship** at [**Adequation**](https://adequation.fr/) 
    
  🌱 Currently **learning** many different topics like :  
    - 👀 Vue.JS
