@@ -1,7 +1,7 @@
 
  __*Mark down enjoyer*__  
    
- 🎓 Studying at **Polytech** (**Lyon 1 University**) in 3rd year of **engineering degree** in **computer sciences**  
+ 🎓 Studying at **Polytech** (**Lyon 1 University**) in 3rd year of **engineering degree** in **Computer Science**  
  
  👔 Doing my **apprenticeship** at [**Adequation**](https://adequation.fr/) 
    
