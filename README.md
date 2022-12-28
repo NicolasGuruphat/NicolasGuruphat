@@ -9,7 +9,8 @@
    - 👀 Vue.JS
    - ⚙️ Quasar 
    - 🔴 Laravel
-   - 🐘 PostgreSQL
+   - 🐘 PostgreSQL + 🦫 DBeaver
+   - 🦊 Firefox Addons  
 
 📚 You can find my (old) **portfolio** [here](https://nicolasguruphat.github.io/Nicolas-Guruphat-Website/) (I'm working on the new one)  
   
