@@ -12,11 +12,11 @@
    - 🔴 Laravel
    - 🐘 PostgreSQL + 🦫 DBeaver
    - 🦊 Firefox Addons  
-
+ <!--
 📚 You can find my (old) **portfolio** [here](https://nicolasguruphat.github.io/Nicolas-Guruphat-Website/) (I'm working on the new one)  
   
 📃 You can also find my **Mardown CV** [here](https://github.com/NicolasGuruphat/CV)  
-  
+  -->
 📫 you can **reach me** by clicking [here](mailto:nicolas.guruphat@gmail.com)  
 
  ***
