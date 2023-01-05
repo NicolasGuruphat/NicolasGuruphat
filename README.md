@@ -5,22 +5,25 @@
  🎓 Studying at **Polytech** (**Lyon 1 University**) in 3rd year of **engineering degree** in **Computer Science**  
  
  👔 Doing my **apprenticeship** at [**Adequation**](https://adequation.fr/) 
-   
+
  🌱 Currently **learning** many different topics like :  
    - 👀 Vue.JS
    - ⚙️ Quasar 
    - 🔴 Laravel
    - 🐘 PostgreSQL + 🦫 DBeaver
    - 🦊 Firefox Addons  
+ 
  <!--
 📚 You can find my (old) **portfolio** [here](https://nicolasguruphat.github.io/Nicolas-Guruphat-Website/) (I'm working on the new one)  
   
 📃 You can also find my **Mardown CV** [here](https://github.com/NicolasGuruphat/CV)  
+
+![My most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=NicolasGuruphat&show_icons=true&count_private=true)
   -->
 📫 you can **reach me** by clicking [here](mailto:nicolas.guruphat@gmail.com)  
 
  ***
- 
+
 
 <p align="center"><a href="https://www.codewars.com/users/Nicolas%20Guruphat"><img height="40" src="https://www.codewars.com/users/Nicolas%20Guruphat/badges/small"></a></p>
 
