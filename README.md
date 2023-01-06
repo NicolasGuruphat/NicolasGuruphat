@@ -12,9 +12,10 @@
    - 🔴 Laravel
    - 🐘 PostgreSQL + 🦫 DBeaver
    - 🦊 Firefox Addons  
+   - 
+📚 You can find my **portfolio** [here](https://nicolasguruphat.github.io/online-cv/) (I'm still working on it)
  
  <!--
-📚 You can find my (old) **portfolio** [here](https://nicolasguruphat.github.io/Nicolas-Guruphat-Website/) (I'm working on the new one)  
   
 📃 You can also find my **Mardown CV** [here](https://github.com/NicolasGuruphat/CV)  
 
