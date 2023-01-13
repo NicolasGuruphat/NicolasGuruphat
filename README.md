@@ -12,6 +12,7 @@
    - 🔴 Laravel
    - 🐘 PostgreSQL + 🦫 DBeaver
    - 🦊 Firefox Addons  
+   - 🐧 Server Administration
    
 📚 You can find my **portfolio** [here](https://nicolasguruphat.github.io/online-cv/) (I'm still working on it)
  
