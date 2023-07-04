@@ -13,7 +13,7 @@
    - 🔴 Laravel
    - 🐘 PostgreSQL + 🦫 DBeaver 
 📚 You can find my **portfolio** [here](https://nicolasguruphat.github.io/online-cv/) (I'm still working on it)
- 
+🆕 Come discover my latest project [here](https://github.com/NicolasGuruphat/smooth-pomodoro) !
  <!--
   
 📃 You can also find my **Mardown CV** [here](https://github.com/NicolasGuruphat/CV)  
