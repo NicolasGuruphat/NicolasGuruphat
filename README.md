@@ -10,12 +10,8 @@
 
  🌱 Currently **learning** many different topics like :  
    - 👀 Vue.JS
-   - ⚙️ Quasar 
    - 🔴 Laravel
-   - 🐘 PostgreSQL + 🦫 DBeaver
-   - 🦊 Firefox Addons  
-   - 🐧 Server Administration
-   
+   - 🐘 PostgreSQL + 🦫 DBeaver 
 📚 You can find my **portfolio** [here](https://nicolasguruphat.github.io/online-cv/) (I'm still working on it)
  
  <!--
