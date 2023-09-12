@@ -11,11 +11,15 @@
 
  💽 Come discover my **latest personnal** project [*Smooth Pomodoro*](https://github.com/NicolasGuruphat/smooth-pomodoro)
 
- 🌱 Currently **learning** many different topics like :  
-   - 👀 Vue.JS
+ 🌱 Currently **learning** different topics like :
+  - ⚛️ React
+  - 🧪 Jest
+  - 👀 Vue.JS
+  - 🟦 TypeScript
+   <!-- 
    - 🔴 Laravel
    - 🐘 PostgreSQL + 🦫 DBeaver
-   - 🦊 GitLab CI/CD
+   - 🦊 GitLab CI/CD -->
      
 📚 You can find my **portfolio** [*here*](https://nicolasguruphat.github.io/online-cv/) (I'm still working on it)  
 
