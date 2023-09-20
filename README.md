@@ -16,6 +16,7 @@
   - 🧪 Jest
   - 👀 Vue.JS
   - 🟦 TypeScript
+  -  🌬 TailWind
    <!-- 
    - 🔴 Laravel
    - 🐘 PostgreSQL + 🦫 DBeaver
