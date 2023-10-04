@@ -4,7 +4,7 @@
    
  
  
- 🎓 Studying at **Polytech** (**Lyon 1 University**) in 4th year of **engineering degree** in **Computer Science**  
+ 🎓 Studying at **Polytech** (**Lyon 1 University**) in 4<sup>th</sup> year of **engineering degree** in **Computer Science**  
  
  👔 Doing my **apprenticeship** at [*Adequation*](https://adequation.fr/) 
 
