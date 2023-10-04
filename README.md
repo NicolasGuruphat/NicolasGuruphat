@@ -12,11 +12,13 @@
  💽 Come discover my **latest personnal** project [*Smooth Pomodoro*](https://github.com/NicolasGuruphat/smooth-pomodoro)
 
  🌱 Currently **learning** different topics like :
+  - 🦺 Cybersecurity
+  - 👀 Vue.JS
+  - 🍍 Pinia
+  - 🟦 TypeScript
+  - 🌬 TailWind
   - ⚛️ React
   - 🧪 Jest
-  - 👀 Vue.JS
-  - 🟦 TypeScript
-  -  🌬 TailWind
    <!-- 
    - 🔴 Laravel
    - 🐘 PostgreSQL + 🦫 DBeaver
