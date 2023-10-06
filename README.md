@@ -42,6 +42,8 @@
  
  <p align="center"><img src="https://komarev.com/ghpvc/?username=NicolasGuruphat&color=blue"></p>
  
+ <p align="center"><a href="https://www.root-me.org/NicolasGuruphat"><img src="https://www.root-me.org/IMG/logo/siteon0.svg?1637496509" alt="root me account" /></a></p>
+ 
 ***
 
 ### <p align="center">  Skills Map </p>
