@@ -12,14 +12,15 @@
  💽 Come discover my **latest personnal** project [*Smooth Pomodoro*](https://github.com/NicolasGuruphat/smooth-pomodoro)
 
  🌱 Currently **learning** different topics like :
+  - 💎 Ruby On Rails
   - 🦺 Cybersecurity
   - 👀 Vue.JS
   - 🍍 Pinia
   - 🟦 TypeScript
-  - 🌬 TailWind
-  - ⚛️ React
   - 🧪 Jest
    <!-- 
+   - 🌬 TailWind
+   - ⚛️ React
    - 🔴 Laravel
    - 🐘 PostgreSQL + 🦫 DBeaver
    - 🦊 GitLab CI/CD -->
@@ -45,7 +46,7 @@
  <p align="center"><a href="https://www.root-me.org/NicolasGuruphat"><img src="https://www.root-me.org/IMG/logo/siteon0.svg?1637496509" alt="root me account" /></a></p>
  
 ***
-
+```
 ### <p align="center">  Skills Map </p>
 
 Legend :
@@ -129,7 +130,7 @@ root (MY SKILLS)
       Mind Map 
     Typora
     Obsidian
-
+```
 ```
 <!-- 
 To put in the graph : 
