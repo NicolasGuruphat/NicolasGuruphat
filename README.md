@@ -36,16 +36,22 @@
   -->
 
  ***
+<a href="https://www.codewars.com/users/Nicolas%20Guruphat">![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)</a>
+<a href="https://stackoverflow.com/users/19390218/nicolas">![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)</a>
+<img src="https://komarev.com/ghpvc/?username=NicolasGuruphat&color=blue" />
+<a href="https://www.root-me.org/NicolasGuruphat"><img width="208" height="58" src="https://www.root-me.org/IMG/logo/siteon0.svg?1637496509" alt="root me account" /></a>
+<!--
+<p align="center"><img height="40" src="https://www.codewars.com/users/Nicolas%20Guruphat/badges/small"></p>
 
-<p align="center"><a href="https://www.codewars.com/users/Nicolas%20Guruphat"><img height="40" src="https://www.codewars.com/users/Nicolas%20Guruphat/badges/small"></a></p>
+<p align="center"><img src="https://stackoverflow.com/users/flair/19390218.png" width="208" height="58" alt="profile for Nicolas at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Nicolas at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a></p>
+ 
+ <p align="center"><</p>
+ 
 
-<p align="center"><a href="https://stackoverflow.com/users/19390218/nicolas"><img src="https://stackoverflow.com/users/flair/19390218.png" width="208" height="58" alt="profile for Nicolas at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Nicolas at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a></p>
- 
- <p align="center"><img src="https://komarev.com/ghpvc/?username=NicolasGuruphat&color=blue"></p>
- 
- <p align="center"><a href="https://www.root-me.org/NicolasGuruphat"><img src="https://www.root-me.org/IMG/logo/siteon0.svg?1637496509" alt="root me account" /></a></p>
- 
+ -->
+  <!--
 ***
+
 ```
 ### <p align="center">  Skills Map </p>
 
@@ -132,6 +138,7 @@ root (MY SKILLS)
     Obsidian
 ```
 ```
+  -->
 <!-- 
 To put in the graph : 
 - Raspberry pi
