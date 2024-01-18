@@ -38,6 +38,7 @@
  ***
 <a href="https://www.codewars.com/users/Nicolas%20Guruphat">![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)</a>
 <a href="https://stackoverflow.com/users/19390218/nicolas">![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)</a>
+<a href="https://www.freecodecamp.org/fcc5da83368-360b-4efd-a463-b4dec587e2c2">![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)</a>
 <img src="https://komarev.com/ghpvc/?username=NicolasGuruphat&color=blue" />
 <a href="https://www.root-me.org/NicolasGuruphat"><img width="208" height="58" src="https://www.root-me.org/IMG/logo/siteon0.svg?1637496509" alt="root me account" /></a>
 <!--
