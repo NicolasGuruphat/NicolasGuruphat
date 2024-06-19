@@ -9,7 +9,7 @@
  👔 Doing my **apprenticeship** at [*Adequation*](https://adequation.fr/) 
 
 
- 💽 Come discover my **latest personnal** project [*Smooth Pomodoro*](https://github.com/NicolasGuruphat/smooth-pomodoro)
+ 💽 Come discover my **latest personnal** project [*Smooth Pomodoro*](https://github.com/NicolasGuruphat/smooth-pomodoro) at https://smooth-pomodoro.nicolas-guruphat.com/
 
  🌱 Currently **learning** different topics like :
   - 💎 Ruby On Rails
